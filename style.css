@@ -52,7 +52,7 @@ p{
   text-align: right;
 }
 
-.banner-container {
+.container {
   width: 90%;
 }
 
@@ -64,11 +64,13 @@ section{
   padding: 0;
 }
 
-section .banner-container {
+section .container {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
+
+/* left cols here */
 
 
 
@@ -94,13 +96,13 @@ section .banner-container {
   top: 0;
 }
 
-.nav-main .main-nav {
+.nav-main .mainnav {
   display: flex;
   padding: 24px 0;
   align-items: center;
 }
 
-.nav-main .main-nav .nav-menus {
+.nav-main .mainnav .nav-menus {
   position: fixed;
   right: -110%;
   gap: 0 !important;
@@ -116,15 +118,15 @@ section .banner-container {
   list-style-type: none;
 }
 
-.nav-main .main-nav .nav-menus.active {
+.nav-main .mainnav .nav-menus.active {
   margin-top: 0;
   right: 0;
 }
-.nav-main .main-nav .nav-menus .nav-item {
+.nav-main .mainnav .nav-menus .nav-item {
   margin: 8px 0;
 }
 
-.nav-main .main-nav .nav-menus .nav-item .navagation-link {
+.nav-main .mainnav .nav-menus .nav-item .navagation-link {
   color: #272a31;
   font-size: 31px;
   line-height: 44px;
@@ -133,7 +135,7 @@ section .banner-container {
   text-decoration: none;
 }
 
-.nav-main .main-nav .nav-menus .nav-item .navagation-link:hover {
+.nav-main .mainnav .nav-menus .nav-item .navagation-link:hover {
   color: #ec5242;
 }
 
@@ -163,6 +165,7 @@ section .banner-container {
   transform: translateY(-8px) rotate(-45deg);
   background-color: #93a79d;
 }
+
 /*banner-part*/
 #banner-info {
   background-position: center;
@@ -176,7 +179,7 @@ section .banner-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("./images/8X8A9226-min-1.jpg");
+  background-image: url("./images/stethoscope.jpg");
   background-position: center;
   background-size: cover;
   padding: 141px 0 90px;
@@ -216,8 +219,12 @@ section .banner-container {
   font-family: 'COCOGOOSE', sans-serif;
 }
 
-.haile {
+.haile-1 {
   margin: 0;
+}
+
+.po-1 {
+  padding: 0;
 }
 
 .spacing-1 {
