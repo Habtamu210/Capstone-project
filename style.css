@@ -113,6 +113,7 @@ section .container {
   display: flex;
   padding: 24px 0;
   align-items: center;
+  padding-left: 36px;
 }
 
 .nav-main .mainnav .nav-menus {
@@ -138,6 +139,7 @@ section .container {
 .nav-menus li {
   display: flex;
   flex-direction: row;
+  padding-right: 46px;
 }
 
 .nav-main .mainnav .nav-menus.active {
@@ -470,7 +472,7 @@ button,
 }
 
 #logos {
-  background-color: #d3d3d4;
+  background-color: white;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -490,14 +492,19 @@ button,
   flex-wrap: wrap;
   align-content: space-around;
   gap: 24px;
+  
 }
 
 .mint {
   filter: grayscale(1);
+  width: 40px;
+  height: 40px;
 }
 
 .who {
   filter: invert(1);
+  width: 40px;
+  height: 40px;
 }
 
 footer {
@@ -579,7 +586,8 @@ footer .footer-logo {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    padding: 0;
+    padding-left: 40px;
+    padding-right: 40px;
   }
 
   .nav-menus {
@@ -632,8 +640,12 @@ footer .footer-logo {
   }
 
   #beawre {
-    border: 2px solid #ec5242;
+    border: 3px solid #ec5242;
     color: #ec5247;
+    height: 50px;
+    line-height: 30px;
+    align-items: center;
+    justify-content: center;
   }
 
   #beawre:hover,
@@ -864,9 +876,10 @@ footer .footer-logo {
 
   footer {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
+    padding-right: 18px;
   }
 
   footer .right {
@@ -876,6 +889,9 @@ footer .footer-logo {
   footer .footer-logo {
     width: auto;
     max-height: 42px;
+  }
+  small {
+    margin-left: 30px;
   }
 
   .container .partners-logo {
