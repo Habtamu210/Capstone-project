@@ -106,9 +106,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://github.com/Habtamu210/Capstone-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,19 +132,13 @@ Example commands:
   git clone git@github.com:Habtamu210/capstone-project.git
 ```
 
-
 ### Install
 
 Install this project with:
 
-
-Example command:
-
 ```sh
-  cd douments
-  gem install
+  npm install
 ```
-
 
 ### Usage
 
@@ -160,15 +152,7 @@ or
 
 ### Deployment
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+You can deploy this project using:[Github Pages] https://habtamu210.github.io/Capstone-project/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
