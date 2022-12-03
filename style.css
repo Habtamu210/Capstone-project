@@ -874,5 +874,8 @@ footer .footer-logo {
   width: auto;
   max-height: 42px;
 }
-
+.container .partners-logo {
+  display: flex;
+  flex-direction: row;
+}
 }
