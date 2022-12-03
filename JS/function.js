@@ -2,37 +2,37 @@ const projects =[
   {
     performersN: 'Sahle Worke Zewedie',
     desigination: 'Presiedent of Ethiopia',
-    featureImage: './images/Sahle-Work-Zewde_.jpg',
+    featuredImage: './images/Sahle-Work-Zewde_.jpg',
     descriptions: 'The Ethio-Heath team will be devoted to attract the right customers in the exhibition floor for exhibitors to create valuable business linkages.',
   },
   {
     performersN: 'Derje Gudeta Elias',
     desigination: 'Deputy Health Minister',
-    featureImage: './images/derje.jfif',
+    featuredImage: './images/derje.jfif',
     descriptions: 'The Ethio-Heath team will be devoted to attract the right customers in the exhibition floor for exhibitors to create valuable business linkages.',
   },
   {
     performersN: 'Sinidu Girma Melaka',
     desigination: 'Senior Health Advisory',
-    featureImage: './images/sinidu.jpg',
+    featuredImage: './images/sinidu.jpg',
     descriptions: 'The Ethio-Heath team will be devoted to attract the right customers in the exhibition floor for exhibitors to create valuable business linkages.',
   },
   {
     performersN: 'Dr. Ibrahim Hagos Desta',
     desigination: 'Senior Health Advisory',
-    featureImage: './images/Ibrahim.jpg',
+    featuredImage: './images/Ibrahim.jpg',
     descriptions: 'The Ethio-Heath team will be devoted to attract the right customers in the exhibition floor for exhibitors to create valuable business linkages.',
   },
   {
     performersN: 'Dagemawit Moges Belew',
     desigination: 'Health Minister',
-    featureImage: './images/dagmawit1.jfif',
+    featuredImage: './images/dagmawit1.jfif',
     descriptions: 'The Ethio-Heath team will be devoted to attract the right customers in the exhibition floor for exhibitors to create valuable business linkages.',
   },
   {
     performersN: 'Liya Tadesse Gebere',
     desigination: 'Deputy Health Minister',
-    featureImage: './images/Liya.jfif',
+    featuredImage: './images/Liya.jfif',
     descriptions: 'The Ethio-Heath team will be devoted to attract the right customers in the exhibition floor for exhibitors to create valuable business linkages.',
   },
 ];
