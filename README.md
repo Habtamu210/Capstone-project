@@ -120,67 +120,43 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
+. . git clone https://github.com/Habtamu210/Capstone-project.git
+
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd documents
+  git clone git@github.com:Habtamu210/capstone-project.git
 ```
---->
+
 
 ### Install
 
 Install this project with:
 
-<!--
+
 Example command:
 
 ```sh
-  cd my-project
+  cd douments
   gem install
 ```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+. open browse
+. http://127.0.0.1:5500/index.html
 
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+or
+. git clone https://github.com/Habtamu210/Capstone-project.git
 
 ### Deployment
 
@@ -217,9 +193,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Creating Form**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
