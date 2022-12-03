@@ -106,7 +106,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/Habtamu210/Capstone-project/)
+- [Live Demo Link](https://habtamu210.github.io/Capstone-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
