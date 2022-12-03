@@ -1,16 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio Page
+# Ethiopian Health Exhibition and Confress
 
-> This project is a responsive prortfolio website. This website has a nice look and feel on both small devices like phone and tablets and devices with large screens !!
+> This project is a responsive Ethiopian Health exxhibition and confress held in january by Ministery of Health. This website has a nice look and feel on both small devices like phone and tablets and devices with large screens !!
 
 ## Screenshot of the desktop version
 
-![image](https://user-images.githubusercontent.com/36001215/203973823-c5ebd5f9-9b2f-4fc2-ae60-d8c4ad083eed.png)
+![Desktop version](https://user-images.githubusercontent.com/36001215/205425360-59637730-0d10-456e-9bf7-24f64395fb88.PNG)
 
 ## Screenshot of the Mobile version
 
-![image](https://user-images.githubusercontent.com/36001215/203973646-f2e99b01-3e11-4f91-a4ed-9504e5927f84.png)
+![mobile version](https://user-images.githubusercontent.com/36001215/205425384-da1cce52-388d-417d-84d5-2e645626e722.PNG)
+
 
 
 
@@ -30,8 +31,7 @@
 
 - Header section with certian menus
 - Work section which contain cards
-- About me section 
-- Form section which enables to input certain information
+- About  section 
 - Footer section with list of contacts
 
 
