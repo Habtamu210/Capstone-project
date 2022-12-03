@@ -1,4 +1,4 @@
-const projects =[
+const projects = [
   {
     performersN: 'Sahle Worke Zewedie',
     desigination: 'Presiedent of Ethiopia',
@@ -58,4 +58,4 @@ function featuredFunction() {
   });
   document.getElementById('performer-card').innerHTML = featureCard;
 }
-  featuredFunction();
+featuredFunction();

@@ -1,8 +1,64 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Ethiopian Health Exhibition and Confress
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-> This project is a responsive Ethiopian Health exxhibition and confress held in january by Ministery of Health. This website has a nice look and feel on both small devices like phone and tablets and devices with large screens !!
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Ethiopian Health Exhibition and Confress] <a name="about-project"></a>
+
+> **Ethiopian Health Exhibition and Confress** is a responsive Ethiopian Health exxhibition and confress held in january by Ministery of Health. This website has a nice look and feel on both small devices like phone and tablets and devices with large screens !!
 
 ## Screenshot of the desktop version
 
@@ -14,63 +70,96 @@
 
 
 
+## 🛠 Built With <a name="built-with"></a>
 
-## Built With
+### Tech Stack <a name="tech-stack"></a>
 
-- HTML, 
-- CSS and 
-- JS
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
-## Technologies used
-- linters
-- Lighthouse
-- Webhint
-- Stylelint
+<details>
+  <summary>Languages</summary>
+   <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+  </ul>
+</details>
 
-## Key Features
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://github.com/">Github</a></li>
+  </ul>
+</details>
 
-- Header section with certian menus
-- Work section which contain cards
-- About  section 
-- Footer section with list of contacts
+<!-- Features -->
 
+### Key Features <a name="key-features"></a>
 
+- **Dynamic HTML**
+- **Responsive design**
+- **No framework**
 
-## Live Demo (if available)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-https://habtamu210.github.io/portfoliopage/
+<!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
 
-## Getting Started
+- [Live Demo Link](https://habtamu210.github.io/Capstone-project/)
 
-To get a local copy up and running follow these simple example steps.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Prerequisites
- - vs code
- - Git
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
 
 ### Setup
-1. Download the Zip file or clone the repo with:
-`git clone https://github.com/Habtamu210/portfoliopage/`
+
+Clone this repository to your desired folder:
+
+. . git clone https://github.com/Habtamu210/Capstone-project.git
+
+Example commands:
+
+```sh
+  cd documents
+  git clone git@github.com:Habtamu210/capstone-project.git
+```
 
 ### Install
-> To install linters and other project's dependencies run:
-` npm install `
 
+Install this project with:
 
-### Run tests
-For tracking linter errors locally you need to follow these steps:
+```sh
+  npm install
+```
 
-  > 1. For tracking linter errors in HTML files run:
-  ` npx hint . `
+### Usage
 
-  >2. For tracking linter errors in CSS or SASS files run:
-  ` npx stylelint "\*_/_.{css,scss}" `
-  
-## Deployment
-- https://formspree.io/
+To run the project, execute the following command:
 
-## Authors
+. open browse
+. http://127.0.0.1:5500/index.html
+
+or
+. git clone https://github.com/Habtamu210/Capstone-project.git
+
+### Deployment
+
+You can deploy this project using:[Github Pages] https://habtamu210.github.io/Capstone-project/
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
 
 👤 **Habtamu Birru**
 
@@ -78,21 +167,66 @@ For tracking linter errors locally you need to follow these steps:
 - Twitter: [@twitterhandle](https://twitter.com/beleyaha)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/habtamu-birru-4187ab20)
 
-## 🤝 Contributing
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **Creating Form**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Habtamu210/portfoliopage/issues).
+Feel free to check the [issues page](https://github.com/Habtamu210/capstone-project/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank all my fellow micronauts.
+**Design credit:**  [Cindy Shin](https://www.behance.net/adagio07)
+**Cocogoose font credit** [CDN Fonts](https://www.cdnfonts.com/cocogoose.font)
 - Hat tip to anyone whose code was used
 - Microverse 
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./MIT) licensed.
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **What is this project**
+
+  - It's a capstone project of micoverse curriculam.
+  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
