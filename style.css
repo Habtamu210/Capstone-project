@@ -223,6 +223,7 @@ section .container {
   background-color: #ec5245;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+
   /* 8background-clip: text; */
   text-transform: uppercase;
   font-family: 'COCOGOOSE', sans-serif;
@@ -469,7 +470,6 @@ button,
   background-color: #d3d3d4;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
 
 /* done below */
 #partner {
